@@ -1,6 +1,6 @@
 <div align="center">
 
-### Lenoir Seibert · MktSys
+### Leno · MktSys
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=540&lines=Senior+DevOps+Engineer+🚀;Docker+%7C+Traefik+%7C+Nginx+%7C+n8n;React+·+Next.js+·+TypeScript;Supabase+·+Appwrite+·+AI+Agents;Linux+🐧+is+the+way)](https://git.io/typing-svg)
 
