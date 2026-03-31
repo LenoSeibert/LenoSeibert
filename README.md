@@ -33,6 +33,39 @@ status:   🎯 Focusing
 
 ---
 
+## 🚀 Featured Project
+
+<div align="center">
+
+### [UDT — Unified Dev Tracker](https://github.com/LenoSeibert/UnifiedDevTracker)
+
+**Open source platform for operational project management and execution.**
+
+[![Node.js](https://img.shields.io/badge/Node.js-22+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Fastify](https://img.shields.io/badge/Fastify-5-000000?logo=fastify&logoColor=white)](https://fastify.dev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://github.com/LenoSeibert/UnifiedDevTracker/blob/main/LICENSE)
+
+</div>
+
+UDT combines **SSR UI**, **REST API**, **web authentication**, and a **native MCP server** in a single Fastify runtime — bridging human operations and AI agent automation.
+
+**Core capabilities:**
+- 📋 Work hierarchy: `roadmap → milestone → backlog → todo → checklist`
+- 🔄 Kanban, dashboard, outline tree, hub, and changelog views
+- 🤖 26 native MCP tools for agent-driven project management
+- 🔐 OAuth 2.1 with PKCE, RBAC, PATs, webhooks, and web push
+- 🐳 Docker-ready with multi-arch builds and Swarm deploy
+
+<div align="center">
+
+[![GitHub Repo](https://img.shields.io/badge/▶_View_Repository-UnifiedDevTracker-00d9ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LenoSeibert/UnifiedDevTracker)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -75,8 +108,8 @@ status:   🎯 Focusing
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LenoSeibert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenoSeibert&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LenoSeibert&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LenoSeibert&theme=tokyonight"/>
 </div>
 
 <div align="center">
